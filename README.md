@@ -5,8 +5,13 @@ social humanoid robots with GPGPU and IoT
 
 Mohsen Jafarzadeh, Stephen Brooks, Shimeng Yu, Balakrishnan Prabhakaran, Yonas Tadesse
 
+
+
+
 #### Initial design and development
+
 UT Dallas senior design team
+
 Sharon Choi, Manpreet Dhot, Mark Cordova, Luis Hall-Valdez, and Stephen Brooks
 
 
