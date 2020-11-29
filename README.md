@@ -1,11 +1,10 @@
-# social_humanoid_robots
+# social humanoid robots with GPGPU and IoT
+
 social humanoid robots with GPGPU and IoT
 
 #### Paper Authors
 
 Mohsen Jafarzadeh, Stephen Brooks, Shimeng Yu, Balakrishnan Prabhakaran, Yonas Tadesse
-
-
 
 
 #### Initial design and development
