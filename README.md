@@ -34,7 +34,6 @@ M. Jafarzadeh, S. Brooks, S. Yuc, B. Prabhakaran, and Y. Tadesse, " A wearable s
   title={A wearable sensor vest for social humanoid robots with GPGPU, IoT, and modular software architecture},
   author={Jafarzadeh, Mohsen and Brooks, Stephen and Yu, Shimeng and Prabhakaran, Balakrishnan and Tadesse, Yonas},
   journal={Robotics and Autonomous Systems},
-  pages={103536},
   publisher={Elsevier}
 }
 
