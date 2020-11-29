@@ -1,6 +1,6 @@
-# social humanoid robots with GPGPU and IoT
+# Social humanoid robots with GPGPU and IoT
 
-social humanoid robots with GPGPU and IoT
+Social humanoid robots with GPGPU and IoT
 
 #### Paper Authors
 
