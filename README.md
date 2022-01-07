@@ -22,20 +22,57 @@ Currently, most social robots interact with their surroundings humans through se
 
 # Cite as:
 
+#### DOI
+
+https://doi.org/10.1016/j.robot.2020.103536
 
 #### IEEE
+M. Jafarzadeh, S. Brooks, S. Yu, B. Prabhakaran, and Y. Tadesse, “A wearable sensor vest for social humanoid robots with GPGPU, IOT, and Modular Software Architecture,” Robotics and Autonomous Systems, vol. 139, p. 103536, 2021.
 
-M. Jafarzadeh, S. Brooks, S. Yuc, B. Prabhakaran, and Y. Tadesse, " A wearable sensor vest for social humanoid robots with GPGPU, IoT, and modular software architecture," Robotics and Autonomous Systems.
+
+#### MLA
+Jafarzadeh, Mohsen, et al. "A wearable sensor vest for social humanoid robots with GPGPU, IoT, and modular software architecture." Robotics and Autonomous Systems 139 (2021): 103536.
+
+
+#### APA
+
+Jafarzadeh, M., Brooks, S., Yu, S., Prabhakaran, B., & Tadesse, Y. (2021). A wearable sensor vest for social humanoid robots with GPGPU, IoT, and modular software architecture. Robotics and Autonomous Systems, 139, 103536.
+
+
+#### Chicago
+
+Jafarzadeh, Mohsen, Stephen Brooks, Shimeng Yu, Balakrishnan Prabhakaran, and Yonas Tadesse. "A wearable sensor vest for social humanoid robots with GPGPU, IoT, and modular software architecture." Robotics and Autonomous Systems 139 (2021): 103536.
+
+
+#### Harvard
+
+Jafarzadeh, M., Brooks, S., Yu, S., Prabhakaran, B. and Tadesse, Y., 2021. A wearable sensor vest for social humanoid robots with GPGPU, IoT, and modular software architecture. Robotics and Autonomous Systems, 139, p.103536.
+
+
+#### Vancouver
+
+Jafarzadeh M, Brooks S, Yu S, Prabhakaran B, Tadesse Y. A wearable sensor vest for social humanoid robots with GPGPU, IoT, and modular software architecture. Robotics and Autonomous Systems. 2021 May 1;139:103536.
 
 
 #### Bibtex
 
-@article{jafarzadeh2020wearable,
-  title={A wearable sensor vest for social humanoid robots with GPGPU, IoT, and modular software architecture},
-  author={Jafarzadeh, Mohsen and Brooks, Stephen and Yu, Shimeng and Prabhakaran, Balakrishnan and Tadesse, Yonas},
-  journal={Robotics and Autonomous Systems},
-  publisher={Elsevier}
+```
+@article{Jafarzadeh2021robots,
+title = {A wearable sensor vest for social humanoid robots with GPGPU, IoT, and modular software architecture},
+journal = {Robotics and Autonomous Systems},
+volume = {139},
+pages = {103536},
+year = {2021},
+issn = {0921-8890},
+doi = {https://doi.org/10.1016/j.robot.2020.103536},
+url = {https://www.sciencedirect.com/science/article/pii/S0921889019306323},
+author = {Mohsen Jafarzadeh and Stephen Brooks and Shimeng Yu and Balakrishnan Prabhakaran and Yonas Tadesse},
 }
+```	
+
+
+
+
 
 
 
